@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Rajan%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,35:3b0764,70:6d28d9,100:8b5cf6&height=220&section=header&text=Rajan%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=Real-Time+Systems+%7C+Distributed+Systems;MERN+Stack+%7C+PERN+Stack;Full-Stack+Developer;Building+Scalable+%26+Fault-Tolerant+Systems;Node.js+%7C+Redis+%7C+PostgreSQL+%7C+MongoDB" />
+<a href="https://github.com/rajankumar2511">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Real-Time+Systems+%7C+Distributed+Systems;MERN+Stack+%7C+PERN+Stack;Full-Stack+Developer;Building+Scalable+%26+Fault-Tolerant+Systems;Node.js+%7C+Redis+%7C+PostgreSQL+%7C+MongoDB" />
 </a>
 
 <br/>
 
 <a href="https://github.com/rajankumar2511">
-<img src="https://komarev.com/ghpvc/?username=rajankumar2511&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=rajankumar2511&label=Profile%20Views&color=7c3aed&style=flat" />
 </a>
 
 </div>
@@ -52,39 +52,47 @@ I build backend-heavy applications with a focus on **scalability, concurrency, r
 ### Languages
 
 <p align="center">
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="55"/></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="55"/></a>
 <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="55"/></a>
+
 </p>
 
 ### Frontend
 
 <p align="center">
+
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="55"/></a>
 <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/></a>
 <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="55"/></a>
+
 </p>
 
 ### Backend
 
 <p align="center">
+
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/></a>
 <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="55"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="55"/></a>
 <a href="https://socket.io/"><img src="https://skillicons.dev/icons?i=socketio" width="55"/></a>
+
 </p>
 
 ### Databases & Infrastructure
 
 <p align="center">
+
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="55"/></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="55"/></a>
 <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="55"/></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="55"/></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="55"/></a>
+
 </p>
 
 ---
@@ -178,43 +186,13 @@ I build backend-heavy applications with a focus on **scalability, concurrency, r
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Contributions
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajankumar2511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajankumar2511&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rajankumar2511&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rajankumar2511/rajankumar2511/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajankumar2511&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<a href="https://github.com/rajankumar2511">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajankumar2511&bg_color=12001f&color=a78bfa&line=8b5cf6&point=c4b5fd&area_color=3b0764&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+</a>
 
 </div>
 
@@ -225,15 +203,15 @@ I build backend-heavy applications with a focus on **scalability, concurrency, r
 <p align="center">
 
 <a href="https://github.com/rajankumar2511">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-12001F?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rajankumar2511">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
 
 <a href="mailto:rajankumar2003sknc@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
 
 </p>
@@ -242,6 +220,8 @@ I build backend-heavy applications with a focus on **scalability, concurrency, r
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=120&section=footer" width="100%" />
+### 💜 Build. Scale. Distribute. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001f,35:3b0764,70:6d28d9,100:8b5cf6&height=120&section=footer" width="100%" />
 
 </div>
