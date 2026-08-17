@@ -113,42 +113,6 @@ I build backend-heavy applications with a focus on **scalability, concurrency, r
 
 ---
 
-## 🏗️ Distributed Systems & System Design
-
-```text
-                    ┌──────────────────────┐
-                    │       Clients        │
-                    │ Web / Mobile / APIs  │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │     API Gateway      │
-                    └──────────┬───────────┘
-                               │
-                ┌──────────────┼──────────────┐
-                ▼              ▼              ▼
-          ┌──────────┐   ┌──────────┐   ┌──────────┐
-          │ Service  │   │ Service  │   │ Service  │
-          └────┬─────┘   └────┬─────┘   └────┬─────┘
-               │              │              │
-               └──────────────┼──────────────┘
-                              ▼
-                    ┌──────────────────────┐
-                    │ Redis / Message Queue│
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │      Workers         │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ PostgreSQL / MongoDB │
-                    └──────────────────────┘
-```
-
 ### 🔥 Concepts
 
 `Redis Caching` • `Cache-Aside` • `Cache Invalidation` • `CQRS` • `Outbox Pattern` • `Saga Pattern` • `BullMQ` • `Producer-Consumer` • `Background Jobs` • `Distributed Locking` • `Idempotency` • `Database Transactions` • `Retry & Exponential Backoff` • `Dead Letter Queue` • `Circuit Breaker` • `Rate Limiting` • `Connection Pooling` • `Event-Driven Architecture`
